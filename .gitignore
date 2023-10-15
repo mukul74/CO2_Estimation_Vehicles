@@ -1,0 +1,8 @@
+*.joblib
+*.html
+*.png
+*.csv
+*.txt
+*.ipynb
+*.json
+mlruns/
