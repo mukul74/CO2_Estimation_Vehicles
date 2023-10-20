@@ -7,3 +7,8 @@ Please refer to the [dataset](https://open.canada.ca/data/en/dataset/98f1a129-f6
 ## Details about the Dataset
 
 ![](images/Dataset.PNG)
+
+## First hand Analysis
+1. Total 25 features are available in the datset.
+2. Out of 25 features 12th features is CO2 which is our target.
+3. Apart from that we can observe that from feature Motor (kW) to Range (km), a lot features are misssing.
