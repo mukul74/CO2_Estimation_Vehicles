@@ -9,6 +9,13 @@ Please refer to the [dataset](https://open.canada.ca/data/en/dataset/98f1a129-f6
 ![](images/Dataset.PNG)
 
 ## First hand Analysis
-1. Total 25 features are available in the datset.
-2. Out of 25 features 12th features is CO2 which is our target.
-3. Apart from that we can observe that from feature Motor (kW) to Range (km), a lot features are misssing.
+1. The dataset comprises a total of 25 features.
+
+2. Among these 25 features, the 12th feature corresponds to CO2 emissions, which serves as our target variable.
+
+3. Additionally, it is evident that there are multiple missing features within the range spanning from **Motor (kW)** to **Range (km).**
+
+4. Some features are categorical and some are numerical.
+5. Dataset contains cars from different fuel option such as Petrol, Hybrid, EV.
+
+
