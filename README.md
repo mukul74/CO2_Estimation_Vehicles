@@ -1,4 +1,4 @@
-# CO2 Estimation of Cars using scikit -learn
+# CO2 Estimation of Cars using scikit-learn
 CO2 Estimation of Cars with the help of **scikit-learn**
 
 # Dataset
