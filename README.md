@@ -29,3 +29,31 @@ I have tried to cover most of the data cleaning and EDA for the provided dataset
 ### Correlation Among the features
 ![](images/Corr.png)
 
+## Models Tried 
+1. Dummy Regression
+2. Linear Regression
+3. Ridge Regression
+4. Lasso Regression
+5. Random Forest
+6. Gradient Boosting
+7. Light GBM
+8. XGB Regressor
+9. KNN Regressor
+10. SVR Regressor
+11. CatBoost Regressor
+12. Decision Tree Regressor
+13. MLP Regressor
+
+**Grid Search** was used with these models to get best model possible.
+**PipeLine** was used for the scaling and encoding of the numerical and categorical features
+**Column Transformer** was used to combine the scaling and encoding of numerical and categorical features.
+Refer to the **CO2_Estimation_04.ipynb" for:
+    1. Data Cleaning
+    2. Pipeline
+    3. Column Transformer
+    4. Grid Search
+    5. ML Flow
+    6. Training
+    7. Testing
+    8. Model Saving
+    3. Plotting
