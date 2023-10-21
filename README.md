@@ -63,4 +63,4 @@ Refer to the **CO2_Estimation_04.ipynb** for:
 ## The Best Model
 **MLP Regressor** was the best model among all the other models. With little Grid Search, We were able to find the optimal solution, which leads to low training and testing error. 
 
-![GT vs Prediction](images/MLP%20Regressor.png)
+![GT vs Prediction](images/MLP_Regressor.png)
