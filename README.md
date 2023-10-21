@@ -44,6 +44,7 @@ I have tried to cover most of the data cleaning and EDA for the provided dataset
 12. Decision Tree Regressor
 13. MLP Regressor
 
+##
 **Grid Search** was used with these models to get best model possible.
 **PipeLine** was used for the scaling and encoding of the numerical and categorical features
 **Column Transformer** was used to combine the scaling and encoding of numerical and categorical features.
