@@ -48,13 +48,13 @@ I have tried to cover most of the data cleaning and EDA for the provided dataset
 **Grid Search** was used with these models to get best model possible.
 **PipeLine** was used for the scaling and encoding of the numerical and categorical features
 **Column Transformer** was used to combine the scaling and encoding of numerical and categorical features.
-Refer to the **CO2_Estimation_04.ipynb" for:
-    1. Data Cleaning
-    2. Pipeline
-    3. Column Transformer
-    4. Grid Search
-    5. ML Flow
-    6. Training
-    7. Testing
-    8. Model Saving
-    3. Plotting
+Refer to the **CO2_Estimation_04.ipynb** for:
+1. Data Cleaning
+2. Pipeline
+3. Column Transformer
+4. Grid Search
+5. ML Flow
+6. Training
+7. Testing
+8. Model Saving
+3. Plotting
