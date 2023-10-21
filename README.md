@@ -66,7 +66,7 @@ Refer to the **CO2_Estimation_04.ipynb** for:
 ![GT vs Prediction](images/MLP_Regressor.png)
 
 ## Model: MLP Regressor
-Best Hyperparameters: {'model__activation': 'relu', 'model__alpha': 0.01, 'model__hidden_layer_sizes': (100, 200, 100), 'model__solver': 'lbfgs'}
-Mean Squared Error on Test Set: 7.31
-Root Mean Squared Error on Test Set: 2.70
-R-squared: 1.00
+#### Best Hyperparameters: {'model__activation': 'relu', 'model__alpha': 0.01, 'model__hidden_layer_sizes': (100, 200, 100), 'model__solver': 'lbfgs'}
+#### Mean Squared Error on Test Set: 7.31
+#### Root Mean Squared Error on Test Set: 2.70
+#### R-squared: 1.00
