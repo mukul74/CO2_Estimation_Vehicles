@@ -18,4 +18,9 @@ Please refer to the [dataset](https://open.canada.ca/data/en/dataset/98f1a129-f6
 4. Some features are categorical and some are numerical.
 5. Dataset contains cars from different fuel option such as Petrol, Hybrid, EV.
 
+### Missing Features
+![](images/Missing_Features.png)
+
+### Correlation Among the features
+![](images/Corr.png)
 
