@@ -4,6 +4,11 @@ CO2 Estimation of Cars with the help of **scikit-learn**
 # Dataset
 Please refer to the [dataset](https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64/resource/b6100f60-5e63-437d-b122-db76c467c0a7) for the topic. 
 
+
+## For Data Cleaning and EDA
+Please refer to the **CO2_Emmision_Playbook_1.ipynb** and **CO2_Emmision_Playbook_2.ipynb**
+I have tried to cover most of the data cleaning and EDA for the provided dataset.
+
 ## Details about the Dataset
 
 ![](images/Dataset.PNG)
